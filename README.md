@@ -1,6 +1,7 @@
 Table of contents
 
-[Home Assistant](./README.md#home-automation-software)
+[Software](./README.md#home-automation-software)
+[Trademark and Legal](./README.md#trademark-legal-notice)
 
 #### Home Automation software
 

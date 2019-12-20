@@ -1,3 +1,9 @@
+Table of contents
+
+[Home Assistant](./)
+[Home Assistant](https://home-assistant.io/)
+[Home Assistant](https://home-assistant.io/)
+
 #### Home Automation software
 
 | Link  | Description | Comments |

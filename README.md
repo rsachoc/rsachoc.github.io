@@ -1,8 +1,6 @@
 Table of contents
 
 [Home Assistant](./README.md#home-automation-software)
-[Home Assistant](https://home-assistant.io/)
-[Home Assistant](https://home-assistant.io/)
 
 #### Home Automation software
 

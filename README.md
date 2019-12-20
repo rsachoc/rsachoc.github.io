@@ -8,3 +8,12 @@
 
 
 #### Home Automation hardware
+
+
+#### Trademark Legal Notice¶
+
+This Awesome list is not created, developed, affiliated, supported, maintained or endorsed by any of the home automation products mentioned.
+
+All product names, logos, brands, trademarks and registered trademarks are property of their respective owners. All company, product, and service names used in this list are for identification purposes only.
+
+Use of these names, logos, trademarks, and brands does not imply endorsement.

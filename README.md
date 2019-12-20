@@ -1,9 +1,9 @@
 Table of contents
 
-[Software](./README.md#home-automation-software)
-[Trademark and Legal](./README.md#trademark-legal-notice)
+#### [1. Software](./README.md#home-automation-software)
+#### [2. Trademark and Legal](./README.md#trademark-legal-notice)
 
-#### Home Automation software
+##### Home Automation software
 
 | Link  | Description | Comments |
 | ------------- | ------------- | ------------- |
@@ -12,10 +12,10 @@ Table of contents
 | [OpenHAB](https://www.openhab.org/) | OpenHAB | Steeper learning curve, Java based, acive community |
 
 
-#### Home Automation hardware
+##### Home Automation hardware
 
 
-#### Trademark Legal Notice¶
+##### Trademark Legal Notice¶
 
 This Awesome list is not created, developed, affiliated, supported, maintained or endorsed by any of the home automation products mentioned.
 

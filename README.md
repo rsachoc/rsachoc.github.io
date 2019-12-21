@@ -1,9 +1,13 @@
 Table of contents
 
-#### [1. Software](./README.md#home-automation-software)
-#### [2. Trademark and Legal](./README.md#trademark-legal-notice)
+#### [1. Home Automation Software](./README.md#home-automation-software)
+#### [2. Home Assistant](./README.md#home-automation-software)
+#### [3. Domoticz](./README.md#home-automation-software)
+#### [4. OpenHAB](./README.md#home-automation-software)
+#### [5. Hardware](./README.md#home-automation-software)
+#### [6. Trademark and Legal](./README.md#trademark-legal-notice)
 
-##### Home Automation software
+##### 1. Home Automation software
 
 | Link  | Description | Comments |
 | ------------- | ------------- | ------------- |
@@ -11,11 +15,23 @@ Table of contents
 | [Domoticz](https://www.domoticz.com/) | Domoticz | Not as pretty as Home Assistant, feature rich, open source, PHP based |
 | [OpenHAB](https://www.openhab.org/) | OpenHAB | Steeper learning curve, Java based, acive community |
 
+##### 2. Home Assistant
 
-##### Home Automation hardware
+###### Getting Help
 
+[Home Assistant Discord](https://discord.gg/c5DvZ4e) - Join the chat, most of us are there.
+[Home Assistant Community](https://community.home-assistant.io) - The discussion forum, also used for feature requests.
+[Home Assistant Subreddit](https://www.reddit.com/r/homeassistant/) - If you are into Reddit, subscribe.
 
-##### Trademark Legal Notice¶
+###### Getting Help
+
+##### 3. Domoticz
+
+##### 4. OpenHAB
+
+##### 5. Home Automation hardware
+
+##### 6. Trademark Legal Notice¶
 
 TheBig List of Home Automation  is not created, developed, affiliated, supported, maintained or endorsed by any of the home automation products mentioned.
 

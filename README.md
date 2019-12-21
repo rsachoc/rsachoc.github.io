@@ -5,7 +5,8 @@ Table of contents
 #### [3. Domoticz](./README.md#home-automation-software)
 #### [4. OpenHAB](./README.md#home-automation-software)
 #### [5. Hardware](./README.md#home-automation-software)
-#### [6. Trademark and Legal](./README.md#trademark-legal-notice)
+#### [6. General Home Automation](./README.md#home-automation-software)
+#### [7. Trademark and Legal](./README.md#trademark-legal-notice)
 
 ##### 1. Home Automation software
 
@@ -23,7 +24,18 @@ Table of contents
 [Home Assistant Community](https://community.home-assistant.io) - The discussion forum, also used for feature requests.
 [Home Assistant Subreddit](https://www.reddit.com/r/homeassistant/) - If you are into Reddit, subscribe.
 
-###### Getting Help
+###### Youtube (not all Home Assistant specific)
+
+BRUH - Ben has great tutorials for getting started, unfortunately, inactive lately.
+BurnsHA - Great informational and tutorial videos.
+DrZzs - Great how-to videos and also streams live.
+The Hook Up - Tutorials and more, also has videos on home automation in general.
+HASSCASTS - Tips, Tricks & Tutorials, moving to mainly live streams.
+JuanMTech - Easy to follow how-to videos, product reviews and more.
+vCloudInfo - Publishes videos based on his home and GitHub repository.
+digiblurDIY - Tutorials on hardware projects and Tasmota automations.
+Intermit.Tech - Tutorials & reviews: Camera's, Home Networking, ESP8266 boards, Node-RED.
+BeardedTinker - Tutorials & 3D printing.
 
 ##### 3. Domoticz
 
@@ -31,7 +43,9 @@ Table of contents
 
 ##### 5. Home Automation hardware
 
-##### 6. Trademark Legal Notice¶
+##### 6. General Home Automation
+
+##### 7. Trademark Legal Notice¶
 
 TheBig List of Home Automation  is not created, developed, affiliated, supported, maintained or endorsed by any of the home automation products mentioned.
 

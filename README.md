@@ -13,6 +13,8 @@ Table of contents
 #### [7. Cool Home Automation DIY projects](#7-cool-home-automation-diy-projects)
 #### [8. Trademark and Legal](#8-trademark-legal-notice)
 
+***
+
 ##### 1. Home Automation software
 
 | Link  | Description | Comments |
@@ -20,6 +22,8 @@ Table of contents
 | [Home Assistant](https://home-assistant.io/) | Home Assistant | Open Source, very active community, somewhat higher learning curve, python and YAML based |
 | [Domoticz](https://www.domoticz.com/) | Domoticz | Not as pretty as Home Assistant, feature rich, open source, PHP based |
 | [OpenHAB](https://www.openhab.org/) | OpenHAB | Steeper learning curve, Java based, acive community |
+
+***
 
 ##### 2. Home Assistant
 
@@ -47,13 +51,23 @@ digiblurDIY - Tutorials on hardware projects and Tasmota automations.
 Intermit.Tech - Tutorials & reviews: Camera's, Home Networking, ESP8266 boards, Node-RED.  
 BeardedTinker - Tutorials & 3D printing.
 
+***
+
 ##### 3. Domoticz
+
+***
 
 ##### 4. OpenHAB
 
+***
+
 ##### 5. Home Automation hardware
 
+***
+
 ##### 6. General Home Automation
+
+***
 
 ##### 7. Cool Home Automation Projects
 
@@ -69,6 +83,8 @@ BeardedTinker - Tutorials & 3D printing.
 [Smart sprinkler](https://opensprinkler.com/) - Smart sprinkler system - Buy pre-made or make your own  
 [DIY Smart sprinkler](https://community.home-assistant.io/t/automatic-garden-sprinkler-irrigation-system-with-sonoff-basic-and-solenoid-valve/53498) - DIY Smart sprinkler system, single zone  
 [DIY Smart sprinkler, advanced](https://community.home-assistant.io/t/diy-wifi-sprinkler-controller-using-esp8266/116594) - DIY Smart sprinkler system, more advanced
+
+***
 
 ##### 8. Trademark Legal Notice¶
 

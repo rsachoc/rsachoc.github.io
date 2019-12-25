@@ -21,21 +21,21 @@ Table of contents
 
 ###### Getting Help
 
-[Home Assistant Discord](https://discord.gg/c5DvZ4e) - Join the chat, most of us are there.
-[Home Assistant Community](https://community.home-assistant.io) - The discussion forum, also used for feature requests.
-[Home Assistant Subreddit](https://www.reddit.com/r/homeassistant/) - If you are into Reddit, subscribe.
+[Home Assistant Discord](https://discord.gg/c5DvZ4e) - Join the chat, most of us are there.  
+[Home Assistant Community](https://community.home-assistant.io) - The discussion forum, also used for feature requests.  
+[Home Assistant Subreddit](https://www.reddit.com/r/homeassistant/) - If you are into Reddit, subscribe.  
 
 ###### Youtube (not all Home Assistant specific)
 
-BRUH - Ben has great tutorials for getting started, unfortunately, inactive lately.
-BurnsHA - Great informational and tutorial videos.
-DrZzs - Great how-to videos and also streams live.
-The Hook Up - Tutorials and more, also has videos on home automation in general.
-HASSCASTS - Tips, Tricks & Tutorials, moving to mainly live streams.
-JuanMTech - Easy to follow how-to videos, product reviews and more.
-vCloudInfo - Publishes videos based on his home and GitHub repository.
-digiblurDIY - Tutorials on hardware projects and Tasmota automations.
-Intermit.Tech - Tutorials & reviews: Camera's, Home Networking, ESP8266 boards, Node-RED.
+BRUH - Ben has great tutorials for getting started, unfortunately, inactive lately.  
+BurnsHA - Great informational and tutorial videos.  
+DrZzs - Great how-to videos and also streams live.  
+The Hook Up - Tutorials and more, also has videos on home automation in general.  
+HASSCASTS - Tips, Tricks & Tutorials, moving to mainly live streams.  
+JuanMTech - Easy to follow how-to videos, product reviews and more.  
+vCloudInfo - Publishes videos based on his home and GitHub repository.  
+digiblurDIY - Tutorials on hardware projects and Tasmota automations.  
+Intermit.Tech - Tutorials & reviews: Camera's, Home Networking, ESP8266 boards, Node-RED.  
 BeardedTinker - Tutorials & 3D printing.
 
 ##### 3. Domoticz
@@ -50,13 +50,13 @@ BeardedTinker - Tutorials & 3D printing.
 
 ###### General
 
-[Collection of HA DIY projects](https://www.hackster.io/home-assistant/projects) - DIY projects.
+[Collection of HA DIY projects](https://www.hackster.io/home-assistant/projects) - DIY projects.  
 [Fun and life hacking projects](https://community.home-assistant.io/t/projects-that-have-made-life-easier-and-more-enjoyable/50490) - thread on the Home Assistant community with links to projects that are fun.
 
 ###### Software or topic specific
 
-[Cat litterbox](https://community.home-assistant.io/t/smart-litter-box-or-smart-cats/27646/) - smart Cat litterbox
-[Smart garage](https://opengarage.io/) - Smart Garage Door opener with presence detection. Buy pre-made or make your own
+[Cat litterbox](https://community.home-assistant.io/t/smart-litter-box-or-smart-cats/27646/) - smart Cat litterbox  
+[Smart garage](https://opengarage.io/) - Smart Garage Door opener with presence detection. Buy pre-made or make your own  
 [Smart sprinkler](https://opensprinkler.com/) - Smart sprinkler system - Buy pre-made or make your own
 
 ##### 8. Trademark Legal Notice¶

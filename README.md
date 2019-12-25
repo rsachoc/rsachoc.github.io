@@ -57,7 +57,9 @@ BeardedTinker - Tutorials & 3D printing.
 
 [Cat litterbox](https://community.home-assistant.io/t/smart-litter-box-or-smart-cats/27646/) - smart Cat litterbox  
 [Smart garage](https://opengarage.io/) - Smart Garage Door opener with presence detection. Buy pre-made or make your own  
-[Smart sprinkler](https://opensprinkler.com/) - Smart sprinkler system - Buy pre-made or make your own
+[Smart sprinkler](https://opensprinkler.com/) - Smart sprinkler system - Buy pre-made or make your own  
+[DIY Smart sprinkler](https://community.home-assistant.io/t/automatic-garden-sprinkler-irrigation-system-with-sonoff-basic-and-solenoid-valve/53498) - DIY Smart sprinkler system, single zone  
+[DIY Smart sprinkler, advanced](https://community.home-assistant.io/t/diy-wifi-sprinkler-controller-using-esp8266/116594) - DIY Smart sprinkler system, more advanced
 
 ##### 8. Trademark Legal Notice¶
 

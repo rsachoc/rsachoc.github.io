@@ -1,13 +1,13 @@
 Table of contents
 
-#### [1. Home Automation Software](./README.md#home-automation-software)
-#### [2. Home Assistant](./README.md#home-assistant)
-#### [3. Domoticz](./README.md#domoticz)
-#### [4. OpenHAB](./README.md#openhab)
-#### [5. Hardware](./README.md#home-automation-hardware)
-#### [6. General Home Automation](./README.md#general-home-automation)
-#### [7. Cool Home Automation DIY projects](./README.md#cool-home-automation-diy-projects)
-#### [8. Trademark and Legal](./README.md#trademark-legal-notice)
+#### [1. Home Automation Software](./README.md#1-home-automation-software)
+#### [2. Home Assistant](./README.md#2-home-assistant)
+#### [3. Domoticz](./README.md#3-domoticz)
+#### [4. OpenHAB](./README.md#4-openhab)
+#### [5. Hardware](./README.md#5-home-automation-hardware)
+#### [6. General Home Automation](./README.md#6-general-home-automation)
+#### [7. Cool Home Automation DIY projects](./README.md#7-cool-home-automation-diy-projects)
+#### [8. Trademark and Legal](./README.md#8-trademark-legal-notice)
 
 ##### 1. Home Automation software
 

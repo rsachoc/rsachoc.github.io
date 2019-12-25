@@ -25,6 +25,11 @@ Table of contents
 [Home Assistant Community](https://community.home-assistant.io) - The discussion forum, also used for feature requests.  
 [Home Assistant Subreddit](https://www.reddit.com/r/homeassistant/) - If you are into Reddit, subscribe.  
 
+###### Must have add-ons or projects
+
+Node Red  
+HACS  
+
 ###### Youtube (not all Home Assistant specific)
 
 BRUH - Ben has great tutorials for getting started, unfortunately, inactive lately.  

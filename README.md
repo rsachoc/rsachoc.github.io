@@ -6,8 +6,8 @@ Table of contents
 #### [4. OpenHAB](#4-openhab)
 #### [5. Hardware](#5-home-automation-hardware)
 #### [6. General Home Automation](#6-general-home-automation)
-#### [7. Cool Home Automation DIY projects](7-cool-home-automation-diy-projects)
-#### [8. Trademark and Legal](8-trademark-legal-notice)
+#### [7. Cool Home Automation DIY projects](#7-cool-home-automation-diy-projects)
+#### [8. Trademark and Legal](#8-trademark-legal-notice)
 
 ##### 1. Home Automation software
 

@@ -6,7 +6,8 @@ Table of contents
 #### [4. OpenHAB](./README.md#openhab)
 #### [5. Hardware](./README.md#home-automation-hardware)
 #### [6. General Home Automation](./README.md#general-home-automation)
-#### [7. Trademark and Legal](./README.md#trademark-legal-notice)
+#### [7. Cool Home Automation DIY projects](./README.md#cool-home-automation-diy-projects)
+#### [8. Trademark and Legal](./README.md#trademark-legal-notice)
 
 ##### 1. Home Automation software
 
@@ -45,7 +46,20 @@ BeardedTinker - Tutorials & 3D printing.
 
 ##### 6. General Home Automation
 
-##### 7. Trademark Legal Notice¶
+##### 7. Cool Home Automation Projects
+
+###### General
+
+[Collection of HA DIY projects](https://www.hackster.io/home-assistant/projects) - DIY projects.
+[Fun and life hacking projects](https://community.home-assistant.io/t/projects-that-have-made-life-easier-and-more-enjoyable/50490) - thread on the Home Assistant community with links to projects that are fun.
+
+###### Software or topic specific
+
+[Cat litterbox](https://community.home-assistant.io/t/smart-litter-box-or-smart-cats/27646/) - smart Cat litterbox
+[Smart garage](https://opengarage.io/) - Smart Garage Door opener with presence detection. Buy pre-made or make your own
+[Smart sprinkler](https://opensprinkler.com/) - Smart sprinkler system - Buy pre-made or make your own
+
+##### 8. Trademark Legal Notice¶
 
 TheBig List of Home Automation  is not created, developed, affiliated, supported, maintained or endorsed by any of the home automation products mentioned.
 

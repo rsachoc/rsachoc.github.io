@@ -1,4 +1,4 @@
-# The Big List of Home Automation
+### The Big List of Home Automation
 
 I've collected/am collecting a huge list of awesome home automation software/projects/guide/DIY links. If you have anything to add, please make a pull request (https://github.com/rsachoc/rsachoc.github.io/) and I'll add it. Feel free to suggest any other changes through the issues tracker.  
 
